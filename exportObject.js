@@ -1,5 +1,5 @@
 const obj ={
-    firstName:"john";
-    secondName:"Wilson";
+    firstName:"John";
+    lastName:"Wilson";
 }
-module.exports obj;
+module.exports = obj;
